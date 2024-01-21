@@ -13,7 +13,7 @@
 - <main>
       - <section> 상단배너
       - <section> 썸네일 리스트
-      - js에서 main 생성 후 section을 main 안에 넣기 실패
+      - 리액트로 main 생성 후 section을 main 안에 넣기 실패
 - <footer>
 ```
 
