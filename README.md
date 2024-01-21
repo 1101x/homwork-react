@@ -20,9 +20,7 @@
 2.  CSS 연습 : 각 요소의 크기 및 색상, 레이아웃 등을 리액트에서 변경해본다.
 
 3.  보러가기 ..는 빌드가 안되는 듯 하다.. 실패2
-    https://github.com/1101x/homwork-react
-
-
+       https://1101x.github.io/homwork-react/
 
 <img width="576" alt="image" src="https://github.com/1101x/homwork-react/assets/121869052/e8fe8feb-8273-4eb8-bed5-03a0d4bea5c7">
 
