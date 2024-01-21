@@ -13,7 +13,7 @@
 - <main>
       - <section> 상단배너
       - <section> 썸네일 리스트
-      - 이슈 : js에서 main 생성 후 section을 main 안에 넣기 실패
+      - js에서 main 생성 후 section을 main 안에 넣기 실패
 - <footer>
 ```
 
@@ -21,8 +21,12 @@
 
 3.  보러가기 ..는 빌드가 안되는 듯 하다.. 실패2
     https://github.com/1101x/homwork-react
-    
+
+
+
 <img width="576" alt="image" src="https://github.com/1101x/homwork-react/assets/121869052/e8fe8feb-8273-4eb8-bed5-03a0d4bea5c7">
- <img width="447" alt="image" src="https://github.com/1101x/homwork-react/assets/121869052/2546032e-d6cf-4304-890e-725fdd427436">
-    <img width="485" alt="image" src="https://github.com/1101x/homwork-react/assets/121869052/ac534e6f-73fd-44e7-93e0-7fd03555a3d4">
+
+<img width="447" alt="image" src="https://github.com/1101x/homwork-react/assets/121869052/2546032e-d6cf-4304-890e-725fdd427436">
+
+<img width="485" alt="image" src="https://github.com/1101x/homwork-react/assets/121869052/ac534e6f-73fd-44e7-93e0-7fd03555a3d4">
 
