@@ -1,0 +1,43 @@
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+  background: OliveDrab;
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img {
+  border-radius: 10px;
+}
+
+.bigbanner h2 {
+  padding-top: 80px;
+  font-weight: 300;
+  color: #ffffffb4;
+}
+.programs {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 40px;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+.programs h2 {
+  text-align: left;
+  padding-bottom: 10px;
+}
+
+.footer {
+  width: 100vw;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+address {
+  text-decoration: none;
+  font-style: normal;
+}
